@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+svt sort
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🧑‍💻 프로젝트 소개
 
-## Available Scripts
+> 세븐틴 멤버를 토너먼트 방식으로 정렬하여 개인 취향 순위를 확인할 수 있는 웹 사이트입니다.<br>  
+> 사용자는 랜덤으로 출력된 두 멤버 중 더 선호하는 멤버를 반복적으로 선택하며 자신만의 순위를 완성할 수 있습니다. 
 
-In the project directory, you can run:
+- 프로젝트명: svt sort
+- 개발 기간: 2025.06. (약 1주)
+- 개발 인원: 1명 (개인 프로젝트)
+- 주요 사용자: 세븐틴 팬
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔗 배포 주소
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[서비스 바로가기](https://svtsort.web.app/)
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 주요 화면
 
-### `npm run build`
+이미지 첨부 (추후)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ✨ 주요 기능
 
-### `npm run eject`
+### 1. 토너먼트 정렬
+- 토너먼트 방식의 선호도 선택
+- 사용자 선택 결과를 기반으로 순위 생성
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 2. 최종 순위 확인
+- 선택 결과를 기반으로 개인 순위 제공
+- 1위부터 전체 순위 확인 가능
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ⚙️ 기술 스택
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **프론트엔드**: React, Javacript, CSS
+- **빌드 도구**: Create React App (CRA)
+- **라이브러리**: React Router DOM
+- **기타**: GitHub, VSCode, Firebase
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 실행 방법
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+npm start
+```
+<br>
 
-### Code Splitting
+## 📈 프로젝트 성과(2026.06.19 기준)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Firebase Hosting을 활용한 서비스 배포 및 운영
+- X(X.com) 홍보 게시물 노출수 22만 회 달성
+- 게시물 참여수 16,862회, 서비스 링크 클릭수 9,807회 기록
+- 리포스트 878회를 기록하며 X 외 다양한 팬 커뮤니티로 서비스 확산
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
